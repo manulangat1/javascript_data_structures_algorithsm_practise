@@ -4,8 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "t": "nodemon problem_solving/anagram.js ",
+    "s": "nodemon recusion/sumRange.js ",
+    "d": "nodemon problem_solving/dc.js ",
+    "u":"nodemon problem_solving/unique.js "
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
