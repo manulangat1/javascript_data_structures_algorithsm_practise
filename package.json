@@ -7,7 +7,12 @@
     "t": "nodemon problem_solving/anagram.js ",
     "s": "nodemon recusion/sumRange.js ",
     "d": "nodemon problem_solving/dc.js ",
-    "u":"nodemon problem_solving/unique.js "
+    "u":"nodemon problem_solving/unique.js ",
+    "l":"nodemon searching_algo/linear.js",
+    "b":"nodemon searching_algo/binary.js",
+    "n":"nodemon searching_algo/naivestring.js",
+    "bub":"nodemon sorting_algo/buble.js",
+    "sel":"nodemon sorting_algo/selection_sort.js"
   },
   "author": "",
   "license": "ISC",
